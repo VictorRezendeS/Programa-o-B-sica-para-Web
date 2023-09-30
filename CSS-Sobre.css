@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #3D3D3D;
+}
+
+h1 b {
+    background-color: #E1EDF2;
+    padding: 5px;
+}
+
+h2 {
+    border-bottom: 2px solid black;
+    display: inline;
+    padding-bottom: 5px;
+}
+
+figure {
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+
+figcaption {
+    color: lightgrey;
+}
